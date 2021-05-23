@@ -78,9 +78,11 @@ $php artisan ui vue
 
 NPM dependencies / compile resource<br/><br/>
 
-$ npm install<br/>
-$ npm run dev<br/>
-$ npm run watch<br/>
+```
+$npm install 
+$npm run dev
+$npm run watch 
+```
 
 <br/> <br/>
 
@@ -136,7 +138,9 @@ Puoi usare il dump file del db: "DB-vue-laravel-rest-api.sql"
 **Comandi che poterbbero servire per eseguire l'applicazione:**
 
 <br/>
+
 *Sets the APP_KEY value in your .env:*
+
 <br/><br/>
 
 ```
@@ -170,9 +174,9 @@ $ php artisan ui vue
 
 *NPM dependencies / compile resource*<br/><br/>
 ```
-$ npm install 
-$ npm run dev
-$ npm run watch
+$npm install 
+$npm run dev
+$npm run watch
 ```
 
 <br/><br/><br/><br/>
