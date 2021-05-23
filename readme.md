@@ -13,7 +13,7 @@ Vue Project and Laravel REST API
 
 **description:** The purpose of the project is to use a SPA Vue that makes requests through the HTML methods: PUT, GET, POST and DELETE, using the native function of Vue fetch (promise), the requests are intercepted by the Laravel controller that controls the logic and modifies the MySQL db, the updated data is returned again via the promise fetch.
 
-The main role within the application is played by the JsonResource class, which is used to control and customize the data of the db in JSON format for the backend part and by the Vue fetch for the frontend part.
+The main role within the application is played by the ***JsonResource class***, which is used to control and customize the data of the db in JSON format for the backend part and by the Vue fetch for the frontend part.
 
 
 *The records are of the dummy type, created through the Seed and Factory classes made available by Laravel.*
@@ -95,7 +95,7 @@ Progetto Vue e Laravel REST API
 
 **descrizione:** Lo scopo del Il progetto e' quello di utilizzare una SPA Vue che effettua delle richieste attraveso i metodi HTML: PUT, GET, POST e DELETE, utilizzando la funzione nativa di Vue fetch(promise), le richieste sono intercettate dal controller Laravel che controlla la logica e modifica il db MySQL, i dati aggiornati sono ritornati ancora tramite la promise fetch.
 
-Il ruolo principale all'interno dell'applicazione e' svolto dalla classe JsonResource, la quale viene utilizzata per controllare e personalizzare  i dati del db in formato JSON per la parte backend e dalla fetch di Vue per la parte frontend.
+Il ruolo principale all'interno dell'applicazione e' svolto dalla classe ***JsonResource***, la quale viene utilizzata per controllare e personalizzare  i dati del db in formato JSON per la parte backend e dalla fetch di Vue per la parte frontend.
 
 
 *I records sono di tipo dummy, creati attraverso le classi Seed e Factory messe a disposizione da Laravel.*
@@ -158,4 +158,15 @@ $ npm install<br/>
 $ npm run dev<br/>
 $ npm run watch<br/>
 
+<br/><br/><br/><br/>
+
+
+
+Developed by, giuseppe tarallo, london 2021
 <br/><br/>
+
+Personal links:
+<br/><br/>
+
+web: https://www.dev-ita.it <br/>
+git: https://github.com/pippo-github
