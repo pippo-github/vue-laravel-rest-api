@@ -44,27 +44,35 @@ You can use the db dump file: "DB-vue-laravel-rest-api.sql"
 **Commands that could be used to run the application:**
 
 <br/>
-Sets the APP_KEY value in your .env: <br/> <br/>
+*Sets the APP_KEY value in your .env:* <br/> <br/>
 
-$ php artisan key: generate <br/> <br/>
+```
+$ php artisan key: generate 
+```
+<br/> 
 <br/>
 
-Laravel dependencies: <br/> <br/>
 
-$ composer dump-autoload <br/>
-$ composer install <br/>
-
+*Laravel dependencies:* <br/> <br/>
+```
+$composer dump-autoload 
+$composer install 
+```
+<br/>
 <br/>
 
-Install packages ui and bootstrap for Laravel (Laravel 8)<br/><br/>
-
-$ composer require laravel/ui<br/>
-$ php artisan ui bootstrap<br/>
+*Install packages ui and bootstrap for Laravel (Laravel 8)*<br/><br/>
+```
+$composer require laravel/ui
+$ php artisan ui bootstrap
+```
 <br/><br/>
 
-Install packages for Vue and Laravel (for laravel 8)<br/><br/>
+*Install packages for Vue and Laravel (for laravel 8)<br/><br/>*
 
-$ php artisan ui vue<br/>
+```
+$php artisan ui vue
+```
 <br/><br/>
 
 NPM dependencies / compile resource<br/><br/>
@@ -127,36 +135,44 @@ Puoi usare il dump file del db: "DB-vue-laravel-rest-api.sql"
 **Comandi che poterbbero servire per eseguire l'applicazione:**
 
 <br/>
-Sets the APP_KEY value in your .env:<br/><br/>
-
-$ php artisan key:generate <br/><br/>
-<br/>
-
-Laravel dependencies:<br/><br/>
-
-$ composer dump-autoload<br/>
-$ composer install<br/>
-
-<br/>
-
-
-
-Installare i pacchetti ui and bootstrap per Laravel (Laravel 8)<br/><br/>
-
-$ composer require laravel/ui<br/>
-$ php artisan ui bootstrap<br/>
+*Sets the APP_KEY value in your .env:*
 <br/><br/>
 
-Installare i pacchetti  Vue per Laravel (for laravel 8)<br/><br/>
-
-$ php artisan ui vue<br/>
+```
+$php artisan key:generate 
+```
 <br/><br/>
 
-NPM dependencies / compile resource<br/><br/>
 
-$ npm install<br/>
-$ npm run dev<br/>
-$ npm run watch<br/>
+*Laravel dependencies:*<br/><br/>
+```
+$composer dump-autoload
+$composer install
+```
+<br/>
+
+
+
+*Installare i pacchetti ui and bootstrap per Laravel (Laravel 8)*<br/><br/>
+```
+$ composer require laravel/ui 
+$ php artisan ui bootstrap
+```
+<br/><br/>
+
+*Installare i pacchetti  Vue per Laravel (for laravel 8)*<br/><br/>
+```
+$ php artisan ui vue
+```
+
+<br/><br/>
+
+*NPM dependencies / compile resource*<br/><br/>
+```
+$ npm install 
+$ npm run dev
+$ npm run watch
+```
 
 <br/><br/><br/><br/>
 
@@ -165,7 +181,7 @@ $ npm run watch<br/>
 Developed by, giuseppe tarallo, london 2021
 <br/><br/>
 
-Personal links:
+*Personal links*:
 <br/><br/>
 
 web: https://www.dev-ita.it <br/>
