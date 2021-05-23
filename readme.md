@@ -1,4 +1,4 @@
-# Project Description
+# Laravel and Vue REST:API application
 
 
 ## *Preview image of the project*
