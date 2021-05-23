@@ -11,7 +11,7 @@ Laravel and Vue  REST API
 
 **Purpose of the application:** The project gives the possibility to insert the data in a MySQL db and to show them via a SPA created through the Vue framework, the control of the data takes place by the Laravel framework, using the JSON:API specifications.
 
-**description:** The purpose of the project is to use a SPA Vue that makes requests through the HTML methods: PUT, GET, POST and DELETE, using the native function of Vue fetch (promise), the requests are intercepted by the Laravel controller that controls the logic and modifies the MySQL db, the updated data is returned again via the promise fetch.
+***Description:*** The purpose of the project is to use a SPA Vue that makes requests through the HTML methods: PUT, GET, POST and DELETE, using the native function of Vue fetch (promise), the requests are intercepted by the Laravel controller that controls the logic and modifies the MySQL db, the updated data is returned again via the promise fetch.
 
 The main role within the application is played by the ***JsonResource class***, which is used to control and customize the data of the db in JSON format for the backend part and by the Vue fetch for the frontend part.
 
@@ -93,7 +93,7 @@ Laravel e Vue REST API
 
 **Scopo dell'applicazione:** Il progetto da' la possibilita' d'inserire dei dati in un db MySQL e di mostrarli attraverso una SPA realizzata tramite il frameworks Vue, il controllo dei dati avviene tramite il framework Laravel, utilizzando le specifiche JSON:API.
 
-**descrizione:** Lo scopo del Il progetto e' quello di utilizzare una SPA Vue che effettua delle richieste attraveso i metodi HTML: PUT, GET, POST e DELETE, utilizzando la funzione nativa di Vue fetch(promise), le richieste sono intercettate dal controller Laravel che controlla la logica e modifica il db MySQL, i dati aggiornati sono ritornati ancora tramite la promise fetch.
+***Descrizione:*** Lo scopo del Il progetto e' quello di utilizzare una SPA Vue che effettua delle richieste attraveso i metodi HTML: PUT, GET, POST e DELETE, utilizzando la funzione nativa di Vue fetch(promise), le richieste sono intercettate dal controller Laravel che controlla la logica e modifica il db MySQL, i dati aggiornati sono ritornati ancora tramite la promise fetch.
 
 Il ruolo principale all'interno dell'applicazione e' svolto dalla classe ***JsonResource***, la quale viene utilizzata per controllare e personalizzare  i dati del db in formato JSON per la parte backend e dalla fetch di Vue per la parte frontend.
 
