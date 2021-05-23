@@ -44,6 +44,7 @@ You can use the db dump file: "DB-vue-laravel-rest-api.sql"
 **Commands that could be used to run the application:**
 
 <br/>
+
 *Sets the APP_KEY value in your .env:* <br/> <br/>
 
 ```
