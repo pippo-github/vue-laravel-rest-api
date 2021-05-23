@@ -6,7 +6,7 @@
 
 ![project image not present](screenShot/restApiVueLaravel.png)
 
-Vue Project and Laravel REST API 
+Laravel and Vue  REST API 
 --------------------------------
 
 **Purpose of the application:** The project gives the possibility to insert the data in a MySQL db and to show them via a SPA created through the Vue framework, the control of the data takes place by the Laravel framework, using the JSON:API specifications.
@@ -88,7 +88,7 @@ $ npm run watch<br/>
 
 # Descrizione Progetto
 
-Progetto Vue e Laravel REST API 
+Laravel e Vue REST API 
 -------------------------------
 
 **Scopo dell'applicazione:** Il progetto da' la possibilita' d'inserire dei dati in un db MySQL e di mostrarli attraverso una SPA realizzata tramite il frameworks Vue, il controllo dei dati avviene tramite il framework Laravel, utilizzando le specifiche JSON:API.
